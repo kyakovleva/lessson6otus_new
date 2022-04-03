@@ -1,0 +1,88 @@
+2022-04-02 20:29:04,005 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-02 20:29:06,426 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 20:29:07,982 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-02 20:29:14,155 INFO MainTest [main] Начали печатать cookies
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1743528552
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =advcake_track_id , cookie value = 07f96b19-3f9b-a7a5-9f19-25263613b438
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =sessionid , cookie value = ayaigocjkl1ahn77nzia5knclrtij1g3
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_ym_d , cookie value = 1648920549
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.1895378400.1648920549
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_ym_uid , cookie value = 1648920549658323828
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.1907679266.1648920549
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =auth_token , cookie value = vxOtx82rRvX34Xo3HpZFuw
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =advcake_session_id , cookie value = 134067a2-9a95-ff98-5249-2d301da8128e
+2022-04-02 20:29:14,157 INFO MainTest [main] Закончили печатать cookies
+2022-04-02 20:30:59,950 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-02 20:31:02,632 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 20:31:03,909 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-02 20:31:09,761 INFO MainTest [main] Начали печатать cookies
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1743528669
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =advcake_track_id , cookie value = a51738fe-0137-e60f-5215-73d468f3f25a
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =sessionid , cookie value = bxush36ltl908dph5en9s8ojl4xj17vc
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =_ym_d , cookie value = 1648920665
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.1035413914.1648920666
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =_ym_uid , cookie value = 1648920665844611113
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-02 20:31:09,762 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-02 20:31:09,762 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.291004718.1648920666
+2022-04-02 20:31:09,762 INFO MainTest [main] cookie name =auth_token , cookie value = rtVnJo5JZ2RMKVrlxYEn-w
+2022-04-02 20:31:09,762 INFO MainTest [main] cookie name =advcake_session_id , cookie value = 4f57d039-6a76-bb40-e6db-b53e060eafd0
+2022-04-02 20:31:09,762 INFO MainTest [main] Закончили печатать cookies
+2022-04-02 21:34:38,272 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:35:26,789 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:44:29,291 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:46:10,228 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:50:05,361 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:50:54,976 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:52:08,075 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:56:08,143 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:59:12,050 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 22:00:12,809 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 22:12:06,109 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-02 22:12:13,464 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 22:12:20,183 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-02 22:12:29,026 INFO MainTest [main] Начали печатать cookies
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1743534654
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =advcake_track_id , cookie value = 9c71b00c-917e-3094-8a7a-8a4dd40aadd2
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =sessionid , cookie value = gfcz2vrnuckouz5k5acmmkipw1an9uix
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =_ym_d , cookie value = 1648926743
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-02 22:12:29,027 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.1918245819.1648926743
+2022-04-02 22:12:29,027 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-02 22:12:29,027 INFO MainTest [main] cookie name =_ym_uid , cookie value = 1648926743611551001
+2022-04-02 22:12:29,027 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-02 22:12:29,027 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-02 22:12:29,028 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.129235258.1648926743
+2022-04-02 22:12:29,029 INFO MainTest [main] cookie name =auth_token , cookie value = xJal4PcoynPFJV1XiscXwA
+2022-04-02 22:12:29,029 INFO MainTest [main] cookie name =advcake_session_id , cookie value = 622031b9-8b1d-4bb5-db87-209c69220d17
+2022-04-02 22:12:29,029 INFO MainTest [main] Закончили печатать cookies
+2022-04-03 17:53:44,697 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-03 17:54:14,893 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-03 18:12:02,147 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-03 18:12:09,488 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-03 18:12:13,205 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-03 18:12:23,362 INFO MainTest [main] Начали печатать cookies
+2022-04-03 18:12:23,362 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1743606646
+2022-04-03 18:12:23,363 INFO MainTest [main] cookie name =advcake_track_id , cookie value = ec2b2b17-bede-adb2-f1aa-4bd23b71f186
+2022-04-03 18:12:23,363 INFO MainTest [main] cookie name =sessionid , cookie value = y2dcr0ss0ombk8shz5esdlwci6tan3xb
+2022-04-03 18:12:23,363 INFO MainTest [main] cookie name =_ym_d , cookie value = 1648998736
+2022-04-03 18:12:23,363 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-03 18:12:23,363 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-03 18:12:23,364 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.276799646.1648998736
+2022-04-03 18:12:23,364 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-03 18:12:23,364 INFO MainTest [main] cookie name =_ym_uid , cookie value = 1648998736606211642
+2022-04-03 18:12:23,364 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-03 18:12:23,365 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-03 18:12:23,365 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.1151761614.1648998736
+2022-04-03 18:12:23,365 INFO MainTest [main] cookie name =auth_token , cookie value = hXY182H7G0shmOSowqgejg
+2022-04-03 18:12:23,365 INFO MainTest [main] cookie name =advcake_session_id , cookie value = 3d67c545-02b2-6d1c-2bb7-85399a7a7fac
+2022-04-03 18:12:23,365 INFO MainTest [main] Закончили печатать cookies
