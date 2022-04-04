@@ -9,14 +9,9 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import org.junit.rules.ExpectedException;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.interactions.Action;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 import java.util.List;
@@ -49,7 +44,7 @@ public class MainTest {
     }
 
     @Test
-    public void test1() {
+    public void findOtusString() {
         //Открыть Chrome в headless режиме
         initDriver("headless");
         String findString = "Онлайн‑курсы для профессионалов, дистанционное обучение";
@@ -65,7 +60,7 @@ public class MainTest {
     }
 
     @Test
-    public void test2() throws InterruptedException {
+    public void clickModalPic() {
         // Открыть Chrome в режиме киоска
         initDriver("--kiosk");
 
@@ -88,7 +83,7 @@ public class MainTest {
 
 
     @Test
-    public void test3() {
+    public void testAuthLogCook() {
         // Открыть Chrome в режиме полного экрана
         initDriver("start-maximized");
 
