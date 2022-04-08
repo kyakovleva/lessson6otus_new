@@ -3,7 +3,6 @@
 .idea/
 out/
 .libraries/
-pom.xml
 target/
 *.zip
 .idea
