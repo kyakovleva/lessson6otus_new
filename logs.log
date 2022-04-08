@@ -105,3 +105,24 @@
 2022-04-04 15:10:32,483 INFO MainTest [main] cookie name =advcake_session_id , cookie value = 97f69bc8-05f6-9f8a-845e-1e3a7fbf08b9
 2022-04-04 15:10:32,483 INFO MainTest [main] Закончили печатать cookies
 2022-04-04 15:10:34,241 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-08 12:32:14,318 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-08 12:43:18,077 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-08 13:32:56,465 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-08 13:33:02,611 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-08 13:33:09,478 INFO MainTest [main] Начали печатать cookies
+2022-04-08 13:33:09,479 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1744021894
+2022-04-08 13:33:09,479 INFO MainTest [main] cookie name =advcake_track_id , cookie value = d026535e-f632-d54f-84ed-db56cf674d9f
+2022-04-08 13:33:09,479 INFO MainTest [main] cookie name =sessionid , cookie value = e5ufshnqiaqxgr8sv6thhmq1r37cx1k7
+2022-04-08 13:33:09,479 INFO MainTest [main] cookie name =_ym_d , cookie value = 1649413983
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.1392927321.1649413984
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_ym_uid , cookie value = 1649413983616757703
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.1874976240.1649413984
+2022-04-08 13:33:09,481 INFO MainTest [main] cookie name =auth_token , cookie value = lqDiOknAUclQGckNTaQTiA
+2022-04-08 13:33:09,481 INFO MainTest [main] cookie name =advcake_session_id , cookie value = bb726224-8420-49d3-fede-68be32309dfe
+2022-04-08 13:33:09,481 INFO MainTest [main] Закончили печатать cookies
+2022-04-08 13:33:11,192 INFO MainTest [main] Драйвер поднят в режиме = --kiosk

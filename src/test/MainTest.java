@@ -78,7 +78,7 @@ public class MainTest {
 //		driverWait.until(ExpectedConditions.elementToBeClickable(imagesList.get(0))).click();
 
         //Проверить что картинка открылась в модальном окне
-        driver.findElement(By.xpath("//div[@class='pp_pic_holder light_rounded']"));
+        driver.findElement(By.xpath("//div[@class = 'pp_hoverContainer']"));
     }
 
 
@@ -97,7 +97,7 @@ public class MainTest {
         driver.findElement(By.xpath("//div[@class='new-log-reg__body']//input[@name='password']")).sendKeys(serverConfig.password());
         driver.findElement(By.xpath("//div[@class='new-log-reg__body']//button")).click();
 
-        String newUserName = driver.findElement(By.xpath("//p[@class='header2-menu__item-text header2-menu__item-text__username']")).getText();
+        String newUserName = driver.findElement(By.xpath("//p[contains(@class,'header2-menu__item-text__username')]")).getText();
 
         Assert.assertEquals("Пользователь не верен", "toyey", newUserName);
 
